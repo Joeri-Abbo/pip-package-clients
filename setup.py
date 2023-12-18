@@ -4,8 +4,8 @@ with open('requirements.txt') as f:
     required = f.read().splitlines()
 
 setup(
-    name='Clients',
-    version='0.0.5',
+    name='JoeriAbboClients',
+    version='master',
     packages=find_packages(),
     install_requires=required
 )
