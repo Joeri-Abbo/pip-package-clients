@@ -5,7 +5,7 @@ with open('requirements.txt') as f:
 
 setup(
     name='JoeriAbboClients',
-    version='master',
+    version='0.0.0',
     packages=find_packages(),
     install_requires=required
 )
