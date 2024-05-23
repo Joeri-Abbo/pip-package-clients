@@ -6,5 +6,5 @@ marshmallow==3.21.2
 pytest==8.2.1
 mysql-connector==2.2.9
 requests==2.32.2
-redis==5.0.3
+redis==5.0.4
 pymongo==4.7.2
